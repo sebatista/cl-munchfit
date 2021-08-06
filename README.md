@@ -1,2 +1,2 @@
-# cl-template
-Project template
+# cl-munchfit
+Project MunchFit
