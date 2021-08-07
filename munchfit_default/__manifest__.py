@@ -69,8 +69,8 @@
     'git-repos': [
         'https://github.com/sebatista/cl-munchfit',
         #'git@github.com:jobiols/cl-test.git',
-        'git@github.com:jobiols/odoo-jeo-ce.git',
-        'git@github.com:jobiols/odoo-private-addons.git',
+        #'git@github.com:jobiols/odoo-jeo-ce.git',			#Requiere clave pública o permisos
+        #'git@github.com:jobiols/odoo-private-addons.git',	#Debe requerir clave pública o permisos
 
         # OCA =============================================================================
         #'https://github.com/OCA/server-tools oca-server-tools',
